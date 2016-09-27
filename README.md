@@ -1,6 +1,7 @@
 ## popclip extension
 
 JSONizer: format string to json
+
 install dependency:
 	pip install jsbeautifier
 
