@@ -2,9 +2,6 @@
 
 JSONizer: format string to json
 
-install dependency:
-	pip install jsbeautifier
-
 preview:
 ![][image-1]
 
