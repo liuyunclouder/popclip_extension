@@ -12,9 +12,13 @@ preview:
 
 ### My Social Medias Accounts
 Blog：[ http://liuyunclouder.github.io/ ]()
+
 Weibo：[ http://www.weibo.com/canuseethat/ ]()
+
 Instagram: [ https://www.instagram.com/liuyunclouder/ ]()
+
 Twitter: @chander9bing
+
 微信公众号：AppLife
 ![][image-2]
 
